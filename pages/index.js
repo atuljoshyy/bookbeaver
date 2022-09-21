@@ -1,10 +1,19 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import BooksPreview from '../components/BooksPreview'
+import Features from '../components/Features'
+import Footer from '../components/Footer'
+import Hero from '../components/Hero'
+import Navbar from '../components/Navbar'
+
 
 export default function Home() {
   return (
-    <div >
-      hello
+    <div  >
+      <Navbar />
+      <Hero />
+      <Features />
+      <BooksPreview />
+      <Footer />
+
 
     </div>
   )
