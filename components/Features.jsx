@@ -9,7 +9,7 @@ const Features = () => {
                         The perfect app to read summarised books
                     </h2>
                     <p data-aos="fade-up" data-aos-duration="500" data-aos-easing="ease-out-quad" data-aos-delay="80" className="text-base text-wblue-50 md:text-lg font-medium">
-                        BookBeaver is the ultimate book summary app that offers you a detailed summary of any book, so you don't have to read the entire thing.
+                        BookBeaver is the ultimate book summary app that offers you a detailed summary of any book, so you don&apos;t have to read the entire thing.
                     </p>
                 </div>
                 <div className='flex flex-col md:flex-row justify-between items-center -mt-10'>
@@ -126,7 +126,7 @@ const Features = () => {
                                         <div>
                                             <p className="text-xl font-semibold sm:text-base">Stay productive</p>
                                             <p className="text-sm text-wblue-50 font-medium">
-                                                You'll be more productive as you dont have to go through the less important details
+                                                You&apos;ll be more productive as you don&apos;t have to go through the less important details
                                             </p>
                                         </div>
                                     </div>
