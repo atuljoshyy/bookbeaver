@@ -21,17 +21,20 @@ const BooksPreview = () => {
                 {/* <!-- Component Start -->  */}
                 <div data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-out-quad" data-aos-delay="110" className=" hidden md:grid xl:grid-cols-4 md:grid-cols-3 grid-cols-1 gap-4 max-w-6xl m-auto max-h-screen">
                     {/* <!-- Tile 1 -->  */}
-                    <div className="flex flex-col bg-white rounded-2xl p-4 pt-5 m-auto shadow-md hover:shadow-2xl transform hover:-translate-y-5  hover:scale-y-95 transition duration-700 cursor-pointer mx-6 md:mx-0 ">
-                        <div className="h-64 w-60 bg-stone-100 rounded-2xl flex justify-center items-center m-auto">
-                            <Image src='/img/book-cover/Atomic habits.svg' width="200px" height="200px" alt='book-cover-img' />
+                    <Link href='/books/atomichabits'>
+                        <div className="flex flex-col bg-white rounded-2xl p-4 pt-5 m-auto shadow-md hover:shadow-2xl transform hover:-translate-y-5  hover:scale-y-95 transition duration-700 cursor-pointer mx-6 md:mx-0 ">
+                            <div className="h-64 w-60 bg-stone-100 rounded-2xl flex justify-center items-center m-auto">
+                                <Image src='/img/book-cover/Atomic habits.svg' width="200px" height="200px" alt='book-cover-img' />
+                            </div>
+                            <div data-aos="fade" data-aos-duration="1100" data-aos-easing="ease-out-quad" data-aos-delay="100" className="flex flex-col items-start mt-4">
+                                <h4 className="text-lg font-semibold text-wblue-200">Atomic Habits</h4>
+                                <p className="text-sm text-wblue-100 font-bold mt-2">By James Clear</p>
+                                <a className="px-4 py-3 leading-none rounded-xl font-bold mt-3 bg-green-100 text-green-600 text-xs uppercase ">Productivity</a>
+                            </div>
                         </div>
-                        <div data-aos="fade" data-aos-duration="1100" data-aos-easing="ease-out-quad" data-aos-delay="100" className="flex flex-col items-start mt-4">
-                            <h4 className="text-lg font-semibold text-wblue-200">Atomic Habits</h4>
-                            <p className="text-sm text-wblue-100 font-bold mt-2">By James Clear</p>
-                            <a className="px-4 py-3 leading-none rounded-xl font-bold mt-3 bg-green-100 text-green-600 text-xs uppercase ">Productivity</a>
-                        </div>
-                    </div>
+                    </Link>
 
+                    <Link href='/books/indistractable' >
                     <div className="flex flex-col bg-white rounded-2xl p-4 pt-5 m-auto shadow-md hover:shadow-2xl transform hover:-translate-y-5  hover:scale-y-95 transition duration-700 cursor-pointer mx-6 md:mx-0 ">
                         <div className="h-64 w-60 bg-yellow-100 rounded-2xl flex justify-center items-center m-auto">
                             <Image src='/img/book-cover/indistractable.svg' width="200px" height="200px" alt='book-cover-img' />
@@ -42,7 +45,9 @@ const BooksPreview = () => {
                             <a className="px-4 py-3 leading-none rounded-xl font-bold mt-3 bg-green-100 text-green-600 text-xs uppercase"  >Productivity</a>
                         </div>
                     </div>
+                    </Link>
 
+                    <Link href='/books/thesubtleart' >
                     <div className="flex flex-col bg-white rounded-2xl p-4 pt-5 m-auto shadow-md hover:shadow-2xl transform hover:-translate-y-5  hover:scale-y-95 transition duration-700 cursor-pointer mx-6 md:mx-0 ">
                         <div className="h-64 w-60 bg-orange-100 rounded-2xl flex justify-center items-center m-auto">
                             <Image src='/img/book-cover/The subtle art .svg' width="200px" height="200px" alt='book-cover-img' />
@@ -53,6 +58,7 @@ const BooksPreview = () => {
                             <a className="px-4 py-3 leading-none rounded-xl font-bold mt-3 bg-violet-100 text-violet-600 text-xs uppercase"  >Motivation</a>
                         </div>
                     </div>
+                    </Link>
 
                     <div className="flex flex-col bg-white rounded-2xl p-4 pt-5 m-auto shadow-md hover:shadow-2xl transform hover:-translate-y-5  hover:scale-y-95 transition duration-700 cursor-pointer mx-6 md:mx-0 ">
                         <div className="h-64 w-60 bg-teal-100 rounded-2xl flex justify-center items-center m-auto">
