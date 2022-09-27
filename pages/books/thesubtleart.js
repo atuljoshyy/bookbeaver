@@ -14,7 +14,7 @@ const thesubtleart = () => {
         Exercise 2: Reframe the Situation
         Rethink the situation you&apos;re in, finding a way to make it fun. “Fun” doesn&apos;t always feel good—it often feels like challenge, discovery, or most importantly, freedom from discomfort. Making your situation engaging decreases internal triggers such as boredom and frustration, which curbs your urge to escape into distracting behaviors. This process has two parts:
 
-        Dive deeper into the situation. Break the situation down into its smallest elements and examine them. This helps you find new perspectives and challenges. For example, if you&apos;re bored at your job in a coffee shop, closely examine each element of making a perfect latté—espresso type, cream content, steaming temperature, and so on.
+        Dive deeper into the situation. Break the situation down into its smallest elements and examine them. This helps you find new perspectives and challenges. For example, if you&apos;re bored at your job in a coffee shop, closely examine each element of making a perfect latt—espresso type, cream content, steaming temperature, and so on.
         Create play. Come up with different challenges. These should include limitations, which spark creativity and engagement. For example, if you have several essays to write, you might aim to write 3,000 words every day or set time limits to beat.
         Exercise 3: Rethink Who You Are
         Successfully becoming indistractable requires you to rethink two ideas about yourself: your willpower and your labels.

@@ -68,7 +68,7 @@ const indistractable = () => {
 
                 1) It helps you balance your responsibilities. Limiting the time you can spend on an activity stops you from working on it “until it&apos;s done” as you might with tasks on a to-do list. This prevents you from letting one responsibility take up too much of your time at the expense of another.
 
-                2) It helps you stick to what you&apos;re meant to be doing. You decide what you'll do and when you&apos;ll do it. This can stop small, easy tasks from distracting you from what you&apos;re doing, because you know it will get done at another time.
+                2) It helps you stick to what you&apos;re meant to be doing. You decide what you&apos;ll do and when you&apos;ll do it. This can stop small, easy tasks from distracting you from what you&apos;re doing, because you know it will get done at another time.
 
                 For example, in the middle of a difficult task, you might think, “I should return Sheila&apos;s call now, before I forget.” Having a timeboxed schedule allows you to say, “I set time this afternoon for catching up on calls. I&apos;ll add Sheila to that list.”
                 Element 2: No Blank Space
